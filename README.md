@@ -1,5 +1,5 @@
 # Development-of-Smart-Healthcare-Solution
-This project uses full-fledged Internet of Thing (IoT) architecture to help collect important health data of elderly under care for optimal monitoring and care in the home.
+This project uses full-fledged Internet of Thing (IoT) architecture to help collect important health data of elderly under care for optimal monitoring and care in the healthcare environment.
 
 Contributors: This project was carried out by seven(7) ISEP Students (4 Masters students and 3 exchange students), they are as follows;
 
